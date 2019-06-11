@@ -1,0 +1,29 @@
+Subway Algorithm
+
+BEGIN
+	face the hallway at the classroom door
+	turn left
+	walk down the hallway until there is an opening on your right
+	turn right
+	walk to the front of two elevators
+	press down button 
+	wait for an elevator door to be opened
+	walk into an elevator
+	turn around to face the elevator door
+	press button marked 1
+	wait until the elevator closes and it reached 1st floor
+	walk out of the elevator when its door is opened
+	turn right
+	walk to the front of a door
+	if door is closed 
+	then 
+		open the door
+	walk down the stairs to reach a street level
+	go out through a door to reach a sidewalk
+	turn left
+	go down the sidewalk until you reach a corner
+	turn right
+	cross the street
+	walk to the front of Subway
+	walk into Subway
+	
